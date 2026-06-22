@@ -1,0 +1,8 @@
+id,nama_tugas,mata_kuliah,deadline,prioritas,status
+1,Tugas Sistem Persamaan Linear,Aljabar Linear,2026-06-25,Tinggi,Belum Selesai
+2,Implementasi Linked List,Struktur Data,2026-06-27,Tinggi,Belum Selesai
+3,Makalah Graf dan Pohon,Matematika Diskrit,2026-06-29,Sedang,Selesai
+4,Laporan Komponen CPU,Arsitektur dan Komputer,2026-07-01,Sedang,Belum Selesai
+5,Program Kalkulator Sederhana,Pemrograman Dasar,2026-07-03,Rendah,Selesai
+6,Presentasi Hak dan Kewajiban Warga Negara,Pendidikan Kewarganegaraan,2026-07-05,Sedang,Belum Selesai
+7,Analisis Finite Automata,Otomata dan Teori Bahasa Formal,2026-07-07,Tinggi,Belum Selesai
