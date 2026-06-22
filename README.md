@@ -20,10 +20,10 @@ Digunakan untuk mempercepat akses data berdasarkan ID tugas.
 
 ## Fitur Program
 
-* Tambah Tugas
-* Lihat Semua Tugas
-* Update Tugas
-* Hapus Tugas
+* Tambah Tugas (Create)
+* Lihat Semua Tugas (Read)
+* Update Tugas (Update)
+* Hapus Tugas (Delete)
 * Cari Tugas berdasarkan nama
 * Urutkan tugas berdasarkan deadline
 * Lihat Antrian Tugas
@@ -33,36 +33,39 @@ Digunakan untuk mempercepat akses data berdasarkan ID tugas.
 
 Program menggunakan file CSV sebagai media penyimpanan data.
 
-Nama file database:
-
-tugas.csv
+**Nama file database:** `tugas.csv`
 
 ## Cara Menjalankan Program
 
-1. Pastikan Python sudah terinstall.
+1. Pastikan Python sudah terinstal.
 2. Buka terminal pada folder project.
-3. Jalankan perintah:
+3. Jalankan perintah berikut:
 
+```bash
 python crud_tugas_kuliah.py
+```
 
 atau
 
+```bash
 py crud_tugas_kuliah.py
+```
 
 ## Struktur Folder
 
-UAS_Mohammad_Fazril_Ibrahim/
-
+```text
+UAS_Struktur_Data_Mohammad_Fazril_Ibrahim/
+│
 ├── crud_tugas_kuliah.py
-
 ├── tugas.csv
-
+├── flowchart_program_csv.png
 └── README.md
+```
 
 ## Author
 
-Nama: Mohammad Fazril Ibrahim
+**Nama:** Mohammad Fazril Ibrahim
 
-Mata Kuliah: Struktur Data
+**Mata Kuliah:** Struktur Data
 
-Universitas: Universitas Buana Perjuangan Karawang
+**Universitas:** Universitas Buana Perjuangan Karawang
